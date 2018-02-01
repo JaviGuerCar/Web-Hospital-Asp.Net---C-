@@ -1,0 +1,26 @@
+\\AIRPORT-EXTREME\My Book2\FOC\PROYECTO\HospitalFOC\HospitalFOC\bin\HospitalFOC.dll
+\\AIRPORT-EXTREME\My Book2\FOC\PROYECTO\HospitalFOC\HospitalFOC\bin\HospitalFOC.pdb
+\\AIRPORT-EXTREME\My Book2\FOC\PROYECTO\HospitalFOC\HospitalFOC\obj\Debug\HospitalFOC.csprojResolveAssemblyReference.cache
+\\AIRPORT-EXTREME\My Book2\FOC\PROYECTO\HospitalFOC\HospitalFOC\obj\Debug\HospitalFOC.dll
+\\AIRPORT-EXTREME\My Book2\FOC\PROYECTO\HospitalFOC\HospitalFOC\obj\Debug\HospitalFOC.pdb
+C:\Users\Rafa\Desktop\HospitalFOC\HospitalFOC\bin\HospitalFOC.dll
+C:\Users\Rafa\Desktop\HospitalFOC\HospitalFOC\bin\HospitalFOC.pdb
+C:\Users\Rafa\Desktop\HospitalFOC\HospitalFOC\bin\ADOPacientes.dll
+C:\Users\Rafa\Desktop\HospitalFOC\HospitalFOC\bin\ADOPacientes.pdb
+C:\Users\Rafa\Desktop\HospitalFOC\HospitalFOC\obj\Debug\HospitalFOC.csprojResolveAssemblyReference.cache
+C:\Users\Rafa\Desktop\HospitalFOC\HospitalFOC\obj\Debug\HospitalFOC.dll
+C:\Users\Rafa\Desktop\HospitalFOC\HospitalFOC\obj\Debug\HospitalFOC.pdb
+C:\Users\Javier\Desktop\HospitalFOC\HospitalFOC\bin\HospitalFOC.dll
+C:\Users\Javier\Desktop\HospitalFOC\HospitalFOC\bin\HospitalFOC.pdb
+C:\Users\Javier\Desktop\HospitalFOC\HospitalFOC\bin\ADOPacientes.dll
+C:\Users\Javier\Desktop\HospitalFOC\HospitalFOC\bin\ADOPacientes.pdb
+C:\Users\Javier\Desktop\HospitalFOC\HospitalFOC\obj\Debug\HospitalFOC.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Desktop\HospitalFOC\HospitalFOC\obj\Debug\HospitalFOC.dll
+C:\Users\Javier\Desktop\HospitalFOC\HospitalFOC\obj\Debug\HospitalFOC.pdb
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\HospitalFOC\HospitalFOC\bin\HospitalFOC.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\HospitalFOC\HospitalFOC\bin\HospitalFOC.pdb
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\HospitalFOC\HospitalFOC\bin\ADOPacientes.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\HospitalFOC\HospitalFOC\bin\ADOPacientes.pdb
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\HospitalFOC\HospitalFOC\obj\Debug\HospitalFOC.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\HospitalFOC\HospitalFOC\obj\Debug\HospitalFOC.dll
+C:\Users\Javier\Documents\Visual Studio 2012\Projects\HospitalFOC\HospitalFOC\obj\Debug\HospitalFOC.pdb

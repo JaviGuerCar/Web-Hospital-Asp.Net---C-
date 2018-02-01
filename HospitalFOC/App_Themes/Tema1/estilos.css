@@ -1,0 +1,358 @@
+﻿body {
+    width:100%;
+    height:100%;
+    font-family:Calibri;
+    font-size:1em;
+    margin:0;
+    padding:0;
+    background-color:#999999;
+}
+
+h1, h2, h3,
+h4, h5{
+    color: #000;
+    margin: 0;
+    padding:0;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.75em;
+    margin-bottom:0.5em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
+
+h4 {
+    font-size: 1.1em;
+}
+
+h5 {
+    font-size: 1em;
+}
+
+    h5 a:link, h5 a:visited, h5 a:active {
+        padding: 0;
+        text-decoration: none;
+    }
+
+h6 {
+    color:white;
+    text-align:center;
+    margin:auto;
+    padding:8px;
+    font-size:0.9em;
+}
+
+#contenedor_web {
+    overflow:auto;
+	width:960px;
+	background-color: #FFFFFF;
+	height: auto;
+    margin:auto;
+	margin-top:25px;
+	box-shadow:0px 0px 5px #333;
+	-moz-box-shadow:0px 0px 5px #333;
+	-webkit-box-shadow:0px 0px 5px #333;
+}
+
+#header {
+    width:940px;
+    height:160px;
+    margin:auto;
+    margin-top:10px;
+}
+
+
+#logo {
+    float:left;     
+    width:205px;
+    margin-left:25px;
+    margin-top:5px;
+}
+
+#cabecera {
+    width:710px;
+    float:left;
+    height:160px;
+}
+
+#contenedor_central {
+    width:940px;
+    height:auto;
+    margin:auto;
+    margin-top:10px;
+}
+
+#imagen_bienvenida img {
+    float:left;
+    margin-left:0px;
+    margin-bottom:10px;
+    padding-right:10px;
+    padding-bottom:5px;
+    width:40%;
+}
+
+#contenido {
+    width:940px;
+    height:auto;
+    min-height:300px;
+    float:left;
+    margin-left:10px;
+}
+
+
+#footer {
+    margin:auto;
+    margin-bottom:10px;
+    width:940px;
+    height:35px;
+    background-color:#c01a1a;
+    float:left;
+}
+
+#consulta_Medico {
+    border:1px solid #999999;
+    width:900px;
+    padding:5px 10px 5px 10px;
+}
+
+#consulta_Paciente {
+    border:1px solid #999999;
+    width:900px;
+    padding:5px 10px 5px 10px;
+}
+
+ul, ol {
+    list-style:none;
+}
+
+#menu {
+    width:610px;
+    background-color:#c01a1a;
+    height:35px;
+    float:left;
+    margin:10px 0px 10px 0px;
+    padding-left:190px;
+}
+
+.nav ul {
+    font-size:1em;
+    margin-top:-14px;
+}
+
+.nav li a {
+  background-color:#c01a1a;
+  color:#fff;
+  text-decoration:none;
+  padding:7px 20px;
+  display:block;
+}
+
+.nav li a:hover {
+  background-color:#434343;
+  color:#fff;
+  text-decoration:none;
+  display:block;
+}
+
+.nav > li {
+    float:left;
+    margin-top:-16px;
+}
+
+.nav li ul {
+    display:none;
+    position:absolute;
+    padding:7px 20px;
+    margin-top:-7px;
+    margin-left:-20px;
+}
+
+.nav li:hover > ul {
+    display:block;
+}        
+
+
+
+ /* MENU LOGIN */
+
+#menu_login {
+    width:140px;
+    height:35px;
+    float:left;
+    margin-top:4px;
+    margin-left:-25px;
+}
+
+
+#menu_login ul {
+        font-size:0.9em;
+        margin-right:15px;
+    }
+
+    #menu_login li {
+        display:inline-block;
+        text-decoration:none;
+        list-style-type:none;
+        color:white;
+    }
+
+    #menu_login a {
+        background-color:#999999;
+        padding:5px;
+        margin-left:5px;
+        margin-right:5px;
+        text-decoration:none;
+        color:white;
+    }
+
+    #menu_login a:hover {
+        text-decoration:none;
+        color:#c01a1a;
+        background-color:#999999;
+    }
+
+/* formularios */
+fieldset {
+    border: 1px solid #e2e2e2;
+    margin: 10px;
+    padding: 0;
+}
+
+    fieldset legend {
+        display: block;
+        font-weight: 600;
+    }
+    
+    fieldset ul {
+        margin-left:15px;
+        padding: 0;
+        list-style: none;
+    }
+
+        fieldset ol li {
+            padding-bottom: 4px;
+        }
+
+    label {
+        display: block;
+        font-size: 1em;
+    }
+
+    label.checkbox {
+        display: inline;
+    }
+
+    .dropdownlist {
+        display:block;
+        font-size:0.9em;
+        margin: 5px 0 5px 0;
+}
+
+    input, textarea {
+        border: 1px solid #e2e2e2;
+        background: #fff;
+        color: #333;
+        font-size: 1em;
+        margin: 3px 0 3px 0;
+        padding: 3px;
+        }
+
+    textarea {
+        font-family: inherit;
+        width: 500px;
+    }
+    
+        input:focus, textarea:focus {
+            border: 1px solid #7ac0da;
+        }
+
+        input[type="checkbox"] {
+            background: transparent;
+            border: inherit;
+            width: auto;
+        }
+        
+    input[type="submit"],
+    input[type="button"],
+    button {
+        background-color: #d3dce0;
+        border: 1px solid #787878;
+        cursor: pointer;
+        font-size: 0.9em;
+        font-weight: 600;
+        padding: 3px;
+        margin-right: 8px;
+        margin-top:10px;
+        width: auto;
+    }
+
+    td input[type="submit"],
+    td input[type="button"],
+    td button {
+        font-size: 0.9em;
+        padding: 4px;
+        margin-right: 4px;
+    }
+
+
+/* información y errores */
+.message-info {
+    border: 1px solid;
+    clear: both;
+    padding: 10px 20px;
+}
+
+.message-error {
+    clear: both;
+    color: #e80c4d;
+    font-size: 0.9em;
+    font-weight: bold;
+    margin: 20px 0 10px 0;
+}
+
+.message-success {
+    color: #7ac0da;
+    font-size: 1em;
+    font-weight: bold;
+    margin: 20px 0 10px 0;
+}
+
+.error {
+    color: #e80c4d;
+}
+
+/* estilos para ayuda de validación */
+
+.field-validation-error {
+    color: #e80c4d;
+    font-size:0.9em;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+input.input-validation-error {
+    border: 1px solid #e80c4d;
+}
+
+input[type="checkbox"].input-validation-error {
+    border: 0 none;
+}
+
+.validation-summary-errors {
+    color: #e80c4d;
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.validation-summary-valid {
+    display: none;
+}

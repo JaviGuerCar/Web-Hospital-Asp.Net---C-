@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="HospitalFOC.Principal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+    <div id="contenedor_web">
+
+        <div id="header">
+            <div id="logo">
+                <a runat="server" href="/Default.aspx"><img src="/images/logo.png" /></a>
+
+            </div>
+
+            <div id="cabecera">
+                   <img src="/images/cabecera.jpg" />
+            </div>
+
+            <div id="menu">
+                <asp:Literal ID="Menu_Web" runat="server"></asp:Literal>
+            </div>
+
+            <div id="menu_login">
+                    <ul>
+                        <li><a runat="server" href="/Registro.aspx">Registro</a><a runat="server" href="/Login.aspx">Login</a></li>
+                    </ul>
+            </div>
+
+        </div>
+
+        <div id="contenedor_central">
+        
+            
+            <div id="contenido">
+                <asp:ContentPlaceHolder ID="ContenidoPrincipal" runat="server">
+        
+                </asp:ContentPlaceHolder>
+
+            </div>
+
+            <div id="footer">
+            <h6>&copy; <%: DateTime.Now.Year %> - Gestión Citas Médicas</h6>
+
+            </div>
+         </div>
+
+    </div>
+    </form>
+</body>
+</html>

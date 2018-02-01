@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalFOC", "HospitalFOC\HospitalFOC.csproj", "{AD1BFB91-D504-43ED-B2BB-7654D97ACA03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOPacientes", "ADOPacientes\ADOPacientes.csproj", "{2F6A64D0-9CD4-4E99-9727-67D0085D3356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD1BFB91-D504-43ED-B2BB-7654D97ACA03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1BFB91-D504-43ED-B2BB-7654D97ACA03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1BFB91-D504-43ED-B2BB-7654D97ACA03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1BFB91-D504-43ED-B2BB-7654D97ACA03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F6A64D0-9CD4-4E99-9727-67D0085D3356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6A64D0-9CD4-4E99-9727-67D0085D3356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6A64D0-9CD4-4E99-9727-67D0085D3356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6A64D0-9CD4-4E99-9727-67D0085D3356}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
